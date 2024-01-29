@@ -1,0 +1,3 @@
+/home/sergey/Documents/Cpp_belt-main/Brown/2_week/GameObject/Solution/cmake-build-debug/CMakeFiles/Solution.dir
+/home/sergey/Documents/Cpp_belt-main/Brown/2_week/GameObject/Solution/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sergey/Documents/Cpp_belt-main/Brown/2_week/GameObject/Solution/cmake-build-debug/CMakeFiles/rebuild_cache.dir
